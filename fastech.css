@@ -2,6 +2,19 @@ body {
     font-family: 'Spartan', sans-serif;
 }
 
+.pages {
+    padding: 20px;
+}
+
+.pages:hover {
+    color: rgb(71, 71, 71);
+    text-decoration: underline;
+}
+
 .contact {
     margin: 10px;
+}
+
+#brand {
+    font: bold;
 }
